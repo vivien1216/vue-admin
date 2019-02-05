@@ -5,7 +5,6 @@ import ElementUI from 'element-ui'
 import Vuex from 'vuex'
 import Mock from './mock'
 Mock.bootstrap();
-import './assets/css/reset.css'
 import 'element-ui/lib/theme-chalk/index.css';
 import 'font-awesome/css/font-awesome.min.css'
 
